@@ -1,0 +1,9 @@
+Program ini menggunakan bahasa pemograman go
+cara menjalankannya bisa langsung menggunakan cmd
+step :
+1. letakkan file program main.go ke Desktop atau yang lainnya
+2. ketik cd Desktop/lokasi file
+3. ketik go run main.go
+4. lalu masukkan jumlah bilangan yang ingin diinput
+5. masukkan beberapa bilangan sesuai jumlah yang tadi di inginkan
+6. Hasil
